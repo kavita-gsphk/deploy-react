@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "358119573d0d8d5b5f27ee44505ef388",
+    "revision": "0beb4a87376fdf560b9e7f8e3517061d",
     "url": "/deploy-react/index.html"
   },
   {
-    "revision": "c16d4608207202872326",
-    "url": "/deploy-react/static/css/main.1f4d379f.chunk.css"
+    "revision": "f3dca2cc3d9ae56a3281",
+    "url": "/deploy-react/static/css/main.477b274a.chunk.css"
   },
   {
     "revision": "7f635ab46d959a64739a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-react/static/js/2.3157a951.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c16d4608207202872326",
+    "revision": "f3dca2cc3d9ae56a3281",
     "url": "/deploy-react/static/js/main.7844c38a.chunk.js"
   },
   {
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f16126aa993f5b3dfab12605141a1617",
     "url": "/deploy-react/static/media/background_9.f16126aa.jpg"
-  },
-  {
-    "revision": "b918db9f7777f41fdfa860193a1e74fb",
-    "url": "/deploy-react/static/media/backi_1.b918db9f.jpg"
   },
   {
     "revision": "fa75830a9cba8a3c7255723c67464983",
