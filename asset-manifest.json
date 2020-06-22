@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/deploy-react/static/css/main.e0627195.chunk.css",
-    "main.js": "/deploy-react/static/js/main.7844c38a.chunk.js",
-    "main.js.map": "/deploy-react/static/js/main.7844c38a.chunk.js.map",
+    "main.css": "/deploy-react/static/css/main.b4a91f6e.chunk.css",
+    "main.js": "/deploy-react/static/js/main.daa9a1b0.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.daa9a1b0.chunk.js.map",
     "runtime-main.js": "/deploy-react/static/js/runtime-main.679a13d3.js",
     "runtime-main.js.map": "/deploy-react/static/js/runtime-main.679a13d3.js.map",
     "static/js/2.3157a951.chunk.js": "/deploy-react/static/js/2.3157a951.chunk.js",
     "static/js/2.3157a951.chunk.js.map": "/deploy-react/static/js/2.3157a951.chunk.js.map",
     "index.html": "/deploy-react/index.html",
-    "precache-manifest.368f8c4aa045d74a33d4740015b3a8e5.js": "/deploy-react/precache-manifest.368f8c4aa045d74a33d4740015b3a8e5.js",
+    "precache-manifest.127726c63dfd5333a5b986ea09cb5e11.js": "/deploy-react/precache-manifest.127726c63dfd5333a5b986ea09cb5e11.js",
     "service-worker.js": "/deploy-react/service-worker.js",
-    "static/css/main.e0627195.chunk.css.map": "/deploy-react/static/css/main.e0627195.chunk.css.map",
+    "static/css/main.b4a91f6e.chunk.css.map": "/deploy-react/static/css/main.b4a91f6e.chunk.css.map",
     "static/js/2.3157a951.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.3157a951.chunk.js.LICENSE.txt",
     "static/media/FirstYear.jpg": "/deploy-react/static/media/FirstYear.9ebac151.jpg",
     "static/media/algo_1.png": "/deploy-react/static/media/algo_1.00cf9c40.png",
-    "static/media/subject.css": "/deploy-react/static/media/back_6.25adf721.jpg",
+    "static/media/subject.css": "/deploy-react/static/media/back_8.5f26bae8.jpg",
     "static/media/participant.css": "/deploy-react/static/media/backi_2.fa75830a.jpg",
     "static/media/home.css": "/deploy-react/static/media/background_9.f16126aa.jpg",
     "static/media/chemistry.jpg": "/deploy-react/static/media/chemistry.5d39d452.jpg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.679a13d3.js",
     "static/js/2.3157a951.chunk.js",
-    "static/css/main.e0627195.chunk.css",
-    "static/js/main.7844c38a.chunk.js"
+    "static/css/main.b4a91f6e.chunk.css",
+    "static/js/main.daa9a1b0.chunk.js"
   ]
 }
